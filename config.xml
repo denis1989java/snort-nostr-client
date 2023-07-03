@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.snort.social" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Snort nostr client</name>
+    <description>Snort nostr client app</description>
+    <author email="kieran@gmail.com" href="https://snort.social">
+        Kieran
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <icon src='www/img/1cc87fd8db25937e4671.webp' />
+</widget>
